@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Math Wizard
 
-You can use the [editor on GitHub](https://github.com/irezystible/620project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Math Wizard is an educational game designed for kids and kids at heart! This game will guide the wizard-in-training through different dungeons and allow them to defeat monsters by answering math questions. Designed for HCIN 620, you will find the development process and the final prototype for Math Wizard in this website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Scope
 
-### Markdown
+## Audience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Approach
 
-```markdown
-Syntax highlighted code block
+## Stake
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irezystible/620project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Team
+#### Anna Hazelwood
+#### Ma'kiah Holliday
+#### Qian Liu
+#### Rezylle Milallos

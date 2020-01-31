@@ -10,10 +10,10 @@ Math Wizard is designed for younger kids ages 4-8, or anyone who wants to practi
 
 ## Scope
 
-Math Wizard will be an Android and iOS app. It will cover math problems from operations to basic algebra. These problems should be challenging but not require the use of pen and paper. The accessibility of the app will be primarily designed for the blind and visually impaired kids. This includes considerations for large text, colorblindess, and user-friendly screen contrasts.
+Math Wizard will be an Android and iOS app. It will cover math problems from operations to basic algebra. These problems should be challenging but not require the use of pen and paper. The accessibility of the app will be primarily designed for the blind and visually impaired kids. This includes considerations for large text, colorblindess, and user-friendly screen contrasts. It would also consider children who are deaf or hard of hearing by adding haptic feedback.
 
 ### Features
- * Game is fully accessible. Buttons and Images will be labeled so that it is recognizable by screen readers. Sound/haptic feedback will also be included to give additional cues on the current state of the game
+ * Game is fully accessible for blind and visually impaired users. Buttons and Images will be labeled so that it is recognizable by screen readers. Sound/haptic feedback will also be included to give additional cues on the current state of the game
  * A "Report" page will be included so that teachers, parents, or friends can see the player's current level and be aware of areas of improvement
 
 ## Approach
@@ -32,7 +32,7 @@ Math Wizard will be an Android and iOS app. It will cover math problems from ope
   
 4. Prototyping
 
-    Ideas may start on pen and paper but will then be translated to Figma as the user interface design is more solidified.           Stakeholders will be notified of the current progress of the game.
+    Ideas may start on pen and paper but will then be translated to Figma as the user interface design is more solidified. Stakeholders will be notified of the current progress of the game.
   
 5. Evaluation
     
@@ -43,22 +43,24 @@ Math Wizard will be an Android and iOS app. It will cover math problems from ope
 * Parents
   * Goals: Use the app as a fun learning tool for sighted or visually impaired child
   * Worries: May not be fully accessible for a child's specific impairment
-  * Ideas: 
   * How to involve them: Get some input on what typically is missing in terms of accessibility in an app. Ask the parents what their child needs in order to perform their best.
 
 * Teachers
   * Goals: Use the app to get children more motivated to learn math
   * Worries: The problems may be too easy/too complex for different users
-  * Ideas:
   * How to involve them: Get ideas on specific problems that appear in classroom exercises. Learn what topics students typically have trouble in.
 
 * Investors
   * Goals: Generate income by involving a new group of potential customers
   * Worries: The game may not be appealing enough to warrant downloads
-  * Ideas:
   * How to involve them: Ideas on proper marketing and design concepts that typically go well with a lot of users.
   
-Update all the stakeholders regularly on different significant changes in the prototype. This will be done through e-mail.
+* Classmates
+  * Goals: Expand knowledge about accessible apps
+  * Worries: Upon learning information about accessible design, they might not have the time to modify their projects to be more accessible
+  * How to involve them: Discussion board on myCourses
+  
+Update all the stakeholders regularly on different significant changes in the prototype. This will be done through e-mail and discussion boards.
   
 ## Group Rules
 

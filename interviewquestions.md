@@ -25,7 +25,7 @@
 1. What kind of apps do your children enjoy using? (Broadcasts, music, reading, gaming, education. etc.)
 2. Which apps would you prefer them to use (for entertainment/ learning)? 
 3. How involved are parents in their child's learning?
-4. What are some of the concerns with children using specially designed apps? (gaming/education apps. etc)
+4. What are some of the concerns with children using apps specially designed for blind? (gaming/education apps. etc)
 5. Is your child currently using any apps you like or dislike?
 
 #### Manager Questions:

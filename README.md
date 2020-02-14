@@ -8,8 +8,5 @@ Even with all the progress in recent game technology, most designers still fail 
 
 [Click here to see Milestone 2](https://irezystible.github.io/620project/Milestone2)
 
-## Creators
-#### Anna Hazelwood
-#### Ma'kiah Holliday
-#### Qian Liu
-#### Rezylle Milallos
+#### Creators
+Anna Hazelwood, Ma'kiah Holliday, Qian (Esther) Liu, Rezylle Milallos

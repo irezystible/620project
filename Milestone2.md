@@ -29,4 +29,6 @@ Some of the most important concepts that we have learned through the process are
 * Parents are not as involved as originally anticipated because of the learning barrier. It is not as easy to teach/follow a child's progress when parents do not understand some foreign tools themselves (Braille, Nemeth Math)
 * Each learning experience vary per individual based on the available technology. They are less likely to be studying in groups but would love to be able to participate in peer activities without a lot of extra support tools
 
+Affinity diagram: https://miro.com/app/board/o9J_kvI5xRc=/
+
 ***We must always remember that we are designing a game that is accessible, not an accessible game***

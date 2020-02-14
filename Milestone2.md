@@ -15,10 +15,11 @@ In the end, we managed to interview representatives of our stakeholders. We than
 
 After all the interviews were conducted, the team met up to review the notes and parse through new information. We created first person statements and wrote them down on different post it notes. We first grouped them at the most basic levels and worked our way to the top labels
 
-<img src="notes.jpg" width="400" align="left">
-<img src="inaction.jpg" width="400" align="right">
-<img src="firstlevel.jpg" width="400" align="left">
-<img src="final.jpg" width="400" align="right">
+![Post it notes are scattered on the table containing personal statements derived from interview answers](notes.jpg)
+*Picture of post it notes are scattered on the table containing personal statements derived from interview answers*
+
+![Picture of some team members working on posting the notes on the wall and categorizing them](inaction.jpg)
+*Picture of some team members working on posting the notes on the wall and categorizing them*
 
 Some of the most important concepts that we have learned through the process are as follows:
 

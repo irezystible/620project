@@ -15,10 +15,10 @@ In the end, we managed to interview representatives of our stakeholders. We than
 
 After all the interviews were conducted, the team met up to review the notes and parse through new information. We created first person statements and wrote them down on different post it notes. We first grouped them at the most basic levels and worked our way to the top labels
 
-<img src="https://irezystible.github.io/620project/notes.jpg" width=400 align=left>
-<img src="https://irezystible.github.io/620project/inaction.jpg" width=400 align=right>
-<img src="https://irezystible.github.io/620project/firstlevel.jpg" width=400 align=left>
-<img src="https://irezystible.github.io/620project/final.jpg" width=400 align=right>
+<img src="notes.jpg" width=400 align=left>
+<img src="inaction.jpg" width=400 align=right>
+<img src="firstlevel.jpg" width=400 align=left>
+<img src="final.jpg" width=400 align=right>
 
 Some of the most important concepts that we have learned through the process are as follows:
 

@@ -1,5 +1,8 @@
 # Milestone 1
 
+[Milestone 2](https://irezystible.github.io/620project/Milestone2)
+<br> [Milestone 3](https://irezystible.github.io/620project/Milestone3)
+
 ## Audience
 
 Math Wizard is designed for younger kids ages 4-8, or anyone who wants to practice basic math skills on the go. Parents and teachers can also review the kids' performance.

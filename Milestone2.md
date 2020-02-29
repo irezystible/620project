@@ -1,5 +1,8 @@
 # Milestone 2: Contextual Inquiry
 
+[Milestone 1](https://irezystible.github.io/620project/Milestone1)
+<br> [Milestone 3](https://irezystible.github.io/620project/Milestone3)
+
 As a team, we began this process by first discussing various contacts that may have relevant knowledge or experiences to the project. The contact pool ranged from teachers, friends, family and co-workers.
 
 Utilizing our team's network we approached former connections from the American Printing House for the Blind and were referred to a representative from the NYC Department of Education. After some research, we discovered the New York State School for the Blind was relativley close to the institution. We decided to call and see if some of the teachers would be willing to be interviewed.

@@ -2,6 +2,7 @@
 
 [Milestone 1](https://irezystible.github.io/620project/Milestone1)
 <br> [Milestone 2](https://irezystible.github.io/620project/Milestone2)
+<br> [Milestone 4](https://irezystible.github.io/620project/Milestone4)
 
 For the third milestone, we were tasked to create different personas that would correspond to the app's potential user base.
 

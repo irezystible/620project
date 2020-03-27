@@ -1,7 +1,8 @@
-# Milestone 1
+# Milestone 1: Project Focus
 
 [Milestone 2](https://irezystible.github.io/620project/Milestone2)
 <br> [Milestone 3](https://irezystible.github.io/620project/Milestone3)
+<br> [Milestone 4](https://irezystible.github.io/620project/Milestone4)
 
 ## Audience
 

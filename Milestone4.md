@@ -6,11 +6,12 @@
 
 The team first met to discuss an overview of the app's design on paper. In order to transition easier to a Hi-Fi prototype, we decided to translate the paper designs on to Figma. This also proved a better option for online collaboration especially when the team was not able to meet in person.
 
+(draftgame.jpg)
 
 |  | |
 | :---:              | :---: |
-| (drafthome.jpg)   | (draftgame.jpg)   |
-| (draftreport.jpg) | (draftsignin.jpg) |
+| ![Picture of homepage draft](drafthome.jpg)   | ![Picture of gameplay draft](draftgame.jpg)   |
+| ![Picture of report pages draft](draftreport.jpg) | ![Picture of sign in pages draft](draftsignin.jpg) |
 
 ## Try it out!
 

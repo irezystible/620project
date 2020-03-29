@@ -17,6 +17,7 @@ The team is aware of certain limitations in this iteration of the project. These
 * Some buttons in the Settings pages have limited functionality at this time. It may not show consistent visuals based on what the user have chosen (does not show deactivated buttons all at the same time).
 * There are transitional animations present in some of the frames. These random animations will be changed and polished in the next iteration.
 * Horizontal and vertical scrolling options in the Report pages will be improved.
+* At this time, there is no option to return to previous menus once you are in game (Worlds page). The team will discuss how to fix this potential issue for the next iteration.
 
 ## Behind The Scenes
 

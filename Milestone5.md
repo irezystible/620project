@@ -11,6 +11,8 @@ During development, the team referred to [The 12 Principles of UX in Motion](htt
 
 ### Dimensionality
 
+![](howto.gif)
+
 ### Overlay
 
 We have taken advantage of [Figma's](https://www.figma.com/) amazing overlay functions to seamlessly add notifications and prompts such as in the example above.

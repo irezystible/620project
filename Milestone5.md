@@ -7,6 +7,18 @@
 
 The team sought input from friends and peers about the Lo-Fi design. Some suggestions were related to the visual appeal -- color, icon placement, font size. Others, such as the addition of an onboarding process, is for user ease. We've also added a background story to encourage users, especially younger ones, to be more excited about the game.
 
+We explored different color palettes that are typically used in apps for kids. We wanted to make the game vibrant but not too much where it becomes distracting. The team also made sure to be aware of certain colorblindess issues so we checked for contrast throughout the entire process. We made sure fonts are readable and that sizes are also large enough to satisfy large print qualifications. Because this is only a prototype, we cannot include accessibility requirements such as voiceover. However, we developed the game so that each button is readable by itself and no important information is blended into the background. Most of the graphics present in game were developed by team member. Some, however, were downloaded for free from Google's vector stock images.
+
+Because the game is open to users of all ages, we decided to ask for as little information from the Student view as possible. This information asked is only enough to be able to make the game portable (be played through different devices).
+
+### Prototyping
+
+![Screenshot of the Figma project showing connections for prototyping](figmaconnections.png)
+
+The team included several connections for a proper playthrough of the whole game. Extra connections were removed to limit confusion. This shows just enough to exhibit different button functionalities as well as be able to traverse through all of the frames easily. 
+
+## UX in Motion
+
 During development, the team referred to [The 12 Principles of UX in Motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) to help provide animations that would help present better content to the user.
 
 ### Dimensionality

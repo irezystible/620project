@@ -12,5 +12,7 @@ Even with all the progress in recent game technology, most designers still fail 
 
 [Milestone 4 - Lo-Fi Prototype](https://irezystible.github.io/620project/Milestone4)
 
-#### Creators
+[Milestone 5 - Hi-Fi Prototype](https://irezystible.github.io/620project/Milestone5)
+
+### Creators
 Anna Hazelwood, Ma'kiah Holliday, Qian (Esther) Liu, Rezylle Milallos

@@ -3,6 +3,7 @@
 [Milestone 1](https://irezystible.github.io/620project/Milestone1)
 <br> [Milestone 2](https://irezystible.github.io/620project/Milestone2)
 <br> [Milestone 3](https://irezystible.github.io/620project/Milestone3)
+<br> [Milestone 5](https://irezystible.github.io/620project/Milestone5)
 
 The team first met to discuss an overview of the app's design on paper. In order to transition easier to a Hi-Fi prototype, we decided to translate the paper designs on to Figma. This also proved a better option for online collaboration especially when the team was not able to meet in person.
 

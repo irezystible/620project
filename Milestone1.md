@@ -4,6 +4,7 @@
 <br> [Milestone 3](https://irezystible.github.io/620project/Milestone3)
 <br> [Milestone 4](https://irezystible.github.io/620project/Milestone4)
 <br> [Milestone 5](https://irezystible.github.io/620project/Milestone5)
+<br> [User Testing Follow-Up](https://irezystible.github.io/620project/UserTesting)
 
 
 ## Audience

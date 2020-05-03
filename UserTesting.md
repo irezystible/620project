@@ -1,0 +1,32 @@
+# User Testing Follow-Up
+
+To wrap up the project, some user testing and refinements were done to the hi-fi prototype. Due to COVID-19, the team was able to test only a select number of people.
+
+### Buttons:
+
+The back buttons:
+Some back buttons were not made clear about where they lead to, or find unnecessary in some game screens, which can be especially problematic for no vision and low vision users.
+For further development, the back buttons on the game screen would be replaced with a pause button. So that users can then choose whether they want to restart/ quit/pause.
+
+The En button: It was unclear to some participants and was replaced by a go button, for confirming answers and proceeding to the next question.
+
+### Student Settings:
+
+https://github.com/irezystible/620project/issues/2#issue-611346234
+
+The group realized that there were no connections made for the Student Settings. This differs from the Teacher Settings because students should not be able to edit passing grades and the type of questions involved. We went on to add the settings button in the roadmap. In the future, we would like to have this in all game pages for more accessibility -- students will be able to change settings for sound and vibrations any time they want.
+
+### Report pages:
+
+https://github.com/irezystible/620project/issues/1#issue-611346164
+
+The different buttons for the Share and Share Full Report were confusing to a user. He was not sure what the information inside the Share Full Report would be compared to what was already on the detailed report page in game, especially because a lot of the important summary is viewable.
+
+
+### Overall experience:
+
+* Participants were able to follow through; received positive feedback on the narratives.
+* Some participants claimed that the feedback after each question was hindering their speed.
+* Participants mentioned that the game was clean and fluid, with easy transitions between pages. They also said that it was easy to follow and very straightforward.
+* Participants gave praise to the good use of color and overall graphics.
+* Easy sign up process and good option to login as guest if the user doesn’t want to create any account.

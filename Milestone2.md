@@ -4,6 +4,7 @@
 <br> [Milestone 3](https://irezystible.github.io/620project/Milestone3)
 <br> [Milestone 4](https://irezystible.github.io/620project/Milestone4)
 <br> [Milestone 5](https://irezystible.github.io/620project/Milestone5)
+<br> [User Testing Follow-Up](https://irezystible.github.io/620project/UserTesting)
 
 
 As a team, we began this process by first discussing various contacts that may have relevant knowledge or experiences to the project. The contact pool ranged from teachers, friends, family and co-workers.

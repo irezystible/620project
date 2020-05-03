@@ -4,6 +4,7 @@
 <br> [Milestone 2](https://irezystible.github.io/620project/Milestone2)
 <br> [Milestone 3](https://irezystible.github.io/620project/Milestone3)
 <br> [Milestone 4](https://irezystible.github.io/620project/Milestone4)
+<br> [User Testing Follow-Up](https://irezystible.github.io/620project/UserTesting)
 
 The team sought input from friends and peers about the Lo-Fi design. Some suggestions were related to the visual appeal -- color, icon placement, font size. Others, such as the addition of an onboarding process, is for user ease. We've also added a background story to encourage users, especially younger ones, to be more excited about the game.
 

@@ -6,7 +6,7 @@
 <br> [Milestone 4](https://irezystible.github.io/620project/Milestone4)
 <br> [Milestone 5](https://irezystible.github.io/620project/Milestone5)
 
-To wrap up the project, some user testing and refinements were done to the hi-fi prototype. Due to COVID-19, the team was able to test only a select number of people. Users are not reflective of the primary personas, unfortunately.
+To wrap up the project, some user testing and refinements were done to the hi-fi prototype. Due to COVID-19, the team was able to test only a select number of people. Most of the users are not reflective of the primary personas, unfortunately.
 
 ### Buttons:
 
@@ -27,6 +27,16 @@ The group realized that there were no connections made for the Student Settings.
 
 The different buttons for the Share and Share Full Report were confusing to a user. He was not sure what the information inside the Share Full Report would be compared to what was already on the detailed report page in game, especially because a lot of the important summary is viewable.
 
+### Review by a sighted 9-year old boy who is doing advanced math
+The notes below are from his personal feedback and were also reviewed by him before posting:
+
+* It's interesting that the people in the graphics do not have eyes - it makes it more special!
+* The colors and graphics were nice and inviting
+* The number of questions is fair (he was curious on how to pass a level and how many questions he needed to finish per level)
+* This would have helped when I was learning basic math
+* The story is good. I liked it. If it didn't have a story, I would not be interested
+* I would have liked to see the boss and what I would need to do to win. Do I fight the boss? Or just keep answering questions?
+* The question type does not matter to me
 
 ### Overall experience:
 
@@ -35,3 +45,5 @@ The different buttons for the Share and Share Full Report were confusing to a us
 * Participants mentioned that the game was clean and fluid, with easy transitions between pages. They also said that it was easy to follow and very straightforward
 * Participants gave praise to the good use of color and overall graphics
 * Easy sign up process and good option to login as guest if the user doesn’t want to create any account
+
+

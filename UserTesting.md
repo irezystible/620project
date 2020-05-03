@@ -28,7 +28,7 @@ The group realized that there were no connections made for the Student Settings.
 The different buttons for the Share and Share Full Report were confusing to a user. He was not sure what the information inside the Share Full Report would be compared to what was already on the detailed report page in game, especially because a lot of the important summary is viewable.
 
 ### Review by a sighted 9-year old boy who is doing advanced math
-The notes below are from his personal feedback and were also reviewed by him before posting:
+His current math level is high school geometry. The notes below are from his personal feedback and were also reviewed by him before posting:
 
 * It's interesting that the people in the graphics do not have eyes - it makes it more special!
 * The colors and graphics were nice and inviting
@@ -37,6 +37,15 @@ The notes below are from his personal feedback and were also reviewed by him bef
 * The story is good. I liked it. If it didn't have a story, I would not be interested
 * I would have liked to see the boss and what I would need to do to win. Do I fight the boss? Or just keep answering questions?
 * The question type does not matter to me
+
+### Review by a sighted 7-year old girl who is doing advanced math
+Her current math level is pre-algebra. The notes below are from her personal feedback and were also reviewed by her before posting:
+
+* It's cool!
+* I really liked the drawings and colors
+* I liked the Addition forest and all the worlds that were made
+* It gives you an adventure to find Merlin and learn different math topics so I like it
+* I wanted to see some unicorns and fairies
 
 ### Overall experience:
 

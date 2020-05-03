@@ -28,7 +28,7 @@ The group realized that there were no connections made for the Student Settings.
 The different buttons for the Share and Share Full Report were confusing to a user. He was not sure what the information inside the Share Full Report would be compared to what was already on the detailed report page in game, especially because a lot of the important summary is viewable.
 
 ### Review by a sighted 9-year old boy who is doing advanced math
-His current math level is high school geometry. The notes below are from his personal feedback and were also reviewed by him before posting:
+His current math level is <i>high school geometry</i>. He is in <b>3rd grade</b> and is doing equivalent fractions in school. The notes below are from his personal feedback and were also reviewed by him before posting:
 
 * It's interesting that the people in the graphics do not have eyes - it makes it more special!
 * The colors and graphics were nice and inviting
@@ -39,7 +39,7 @@ His current math level is high school geometry. The notes below are from his per
 * The question type does not matter to me
 
 ### Review by a sighted 7-year old girl who is doing advanced math
-Her current math level is pre-algebra. The notes below are from her personal feedback and were also reviewed by her before posting:
+Her current math level is <i>pre-algebra</i>. She is in <b>1st grade</b> and is doing subtraction in school. The notes below are from her personal feedback and were also reviewed by her before posting:
 
 * It's cool!
 * I really liked the drawings and colors
